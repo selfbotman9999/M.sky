@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-#Chucky_Bot
-
+# ✯ SELFBOT MAN-PC MEDIA @2018 ✯
 import LINETCR
 from LINETCR.lib.curve.ttypes import *
 from datetime import datetime
@@ -11,19 +10,16 @@ from gtts import gTTS
 import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,os,subprocess,requests,tempfile
 
 cl = LINETCR.LINE()
-#cl.login(qr=True)
-cl.login(token='EnxoWFkyStAgWuCx9EBb.fpzoe5O4f6/QVIFsn6/ZAW.ky+9PzaR66IkOZa1dR+YNhmno0w1HMoU9Xy+cKWTPzQ=')
+cl.login(token='2018')
 cl.loginResult()
-print "Cl-Login Success\n\n=====[Sukses Login]====="
+print "Cl-Login Success\n\n=====[SELFBOT MAN-PC MEDIA @2018]====="
 
 reload(sys)
 sys.setdefaultencoding('utf-8')
-
-
 #----------------------------------------------------------
-selfMessage ="""
+selfMessage ="""✯ SELFBOT MAN-PC MEDIA @2018 ✯
 ╔═════════════════════════
-║            ☆☞ S E L F ☜☆
+║        ☆☞ S E L F B O T ☜☆
 ╠═════════════════════════
 ╠➩〘Hi〙
 ╠➩〘Me〙
@@ -46,8 +42,8 @@ selfMessage ="""
 ╠➩〘Getvid @〙
 ╠➩〘Friendlist〙
 ╠═════════════════════════
-║             💠 By : Nadya 💠
-║    〽️ line.me/ti/p/~nad_nad. 〽️
+║ ✯ SELFBOT MAN-PC MEDIA @2018 ✯
+║  line.me/ti/p/~1ove..neverdie
 ╚═════════════════════════
 """
 #----------------------------------------------------------
@@ -65,8 +61,8 @@ botMessage ="""
 ╠➩〘Backup all〙
 ╠➩〘/bio Text〙
 ╠═════════════════════════
-║             💠 By : Nadya 💠
-║    〽️ line.me/ti/p/~nad_nad. 〽️
+║ ✯ SELFBOT MAN-PC MEDIA @2018 ✯
+║ line.me/ti/p/~1ove..neverdie
 ╚═════════════════════════
 """
 #----------------------------------------------------------
@@ -96,8 +92,8 @@ mediaMessage ="""
 ╠➩〘Id@en Text (Translate ID Ke En〙
 ╠➩〘En@id Text (Translate En Ke ID〙
 ╠═════════════════════════
-║             💠 By : Nadya 💠
-║    〽️ line.me/ti/p/~nad_nad. 〽️
+║ ✯ SELFBOT MAN-PC MEDIA @2018 ✯
+║  line.me/ti/p/~1ove..neverdie
 ╚═════════════════════════
 """
 #----------------------------------------------------------
@@ -139,8 +135,8 @@ groupMessage ="""
 ╠➩〘Getgroup image〙
 ╠➩〘Urlgroup Image〙
 ╠═════════════════════════
-║             💠 By : Nadya 💠
-║    〽️ line.me/ti/p/~nad_nad. 〽️
+║ ✯ SELFBOT MAN-PC MEDIA @2018 ✯
+║  line.me/ti/p/~1ove..neverdie
 ╚═════════════════════════
 """
 tjia="u14f64e139a3817afaabe27d237afb36b"
@@ -159,8 +155,8 @@ setMessage ="""
 ╠➩〘Simisimi on/off〙
 ╠➩〘Like on/off〙
 ╠═════════════════════════
-║             💠 By : Nadya 💠
-║    〽️ line.me/ti/p/~nad_nad. 〽️
+║ ✯ SELFBOT MAN-PC MEDIA @2018 ✯
+║  line.me/ti/p/~1ove..neverdie
 ╚═════════════════════════
 """
 #----------------------------------------------------------
@@ -194,8 +190,8 @@ creatorMessage ="""
 ╠➩〘Bye all〙
 ╠➩〘Bot restart〙
 ╠═════════════════════════
-║             💠 By : Nadya 💠
-║    〽️ line.me/ti/p/~nad_nad. 〽️
+║ ✯ SELFBOT MAN-PC MEDIA @2018 ✯
+║  line.me/ti/p/~1ove..neverdie
 ╚═════════════════════════
 """
 #----------------------------------------------------------
@@ -214,16 +210,16 @@ helpMessage ="""
 ╠➩〘Speed〙
 ╠➩〘Status〙
 ╠═════════════════════════
-║             💠 By : Nadya 💠
-║    〽️ line.me/ti/p/~nad_nad. 〽️
+║ ✯ SELFBOT MAN-PC MEDIA @2018 ✯
+║  line.me/ti/p/~1ove..neverdie
 ╚═════════════════════════
 """
 #----------------------------------------------------------
 
 mid = cl.getProfile().mid
 Bots=[mid]
-Creator="u8748762cfc5091da024235c27975a0e0"
-admin=["u8748762cfc5091da024235c27975a0e0"]
+Creator=""
+admin=[""]
 
 contact = cl.getProfile()
 backup1 = cl.getProfile()
