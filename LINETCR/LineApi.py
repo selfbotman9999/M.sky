@@ -42,9 +42,9 @@ class LINE:
     self.authToken = self.Talk.authToken
     self.cert = self.Talk.cert
     self._headers = {
-              'X-Line-Application': 'IOSIPAD\t7.14.0\tiPhone OS\t10.12.0', 
+              'X-Line-Application': 'DESKTOPMAC\t10.10.2-YOSEMITE-x64\tMAC 4.5.0', 
               'X-Line-Access': self.authToken, 
-              'User-Agent': 'Line/7.14.0'
+              'User-Agent': 'Line/8.0.1'
    }
     self.Poll = Poll(self.authToken)
     self.channel = channel.Channel(self.authToken)
@@ -455,9 +455,9 @@ class LINE:
       prof = self.getProfile()
 
       print("===============[RoyaleBot]================")
-      print("          Klaten Bersinar @2017")
+      print("         SELFBOT MAN-PC MEDIA @2018 ")
       print("==========[Royale Team Protect]===========")
-      print("mid -> " + prof.mid)
-      print("name -> " + prof.displayName)
-      print("authToken -> " + self.authToken)
+      print("MID✞  " + prof.mid)
+      print("Name✞  " + prof.displayName)
+      print("authToken✞  " + self.authToken)
       print("cert -> " + self.cert if self.cert is not None else "")
