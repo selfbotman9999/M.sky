@@ -19,10 +19,11 @@ class Talk:
   wait_for_mobile_path = "/Q";
   host = "gd2.line.naver.jp";
   port = 443;
-
-  UA = "Line/7.14.0"
-  LA = "IOSIPAD\t7.14.0\tiPhone OS\t10.12.0"
-
+  #SELFBOT MAN-PC
+  UA = "Line/8.0.1"
+  LA = "DESKTOPMAC\t10.10.2-YOSEMITE-x64\tMAC 4.5.0"
+  #UA = "Line/7.14.0"
+  #LA = "IOSIPAD\t7.14.0\tiPhone OS\t10.12.0"
   authToken = None
   cert = None
 
