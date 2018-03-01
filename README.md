@@ -15,7 +15,7 @@ Install Bot In C9. :
 - Cloud9 -> `sudo pip install bs4`
 - Cloud9 -> `sudo pip install gtts`
 - Cloud9 -> `sudo pip install googletrans`
-- Cloud9 -> `git clone` https://github.com/Nadyatjia/Chucky
+- Cloud9 -> `git clone` https://github.com/selfbotman9999/M.sky
 
 
 INSTALL BOT IN TERMUX :
@@ -28,9 +28,9 @@ INSTALL BOT IN TERMUX :
 - Termux -> `pip2 install bs4`
 - Termux -> `pip2 install gtts`
 - Termux -> `pip2 install googletrans`
-- Termux -> `git clone https://github.com/Selfbotman/.......`
-- Termux -> `cd .......`
-- Termux -> `python2 ....... .py`
+- Termux -> `git clone https://github.com/selfbotman9999/M.sky`
+- Termux -> `cd M.sky`
+- Termux -> `python2 M.sky.py`
 
 
 
