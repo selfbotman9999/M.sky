@@ -1,55 +1,38 @@
-# Chucky
-BOT PROTECT 1 CREATOR 5 BOT 1 Backup.
+**SELFBOT MAN PROTECT
+PROTECT 1 CREATOR 5 BOT 1 Backup.
 ------
--
 
-Cara Install Bot Chucky :
+
+**Install Bot In C9. :
 ------
-Di C9 :
-- Ketik -> `sudo apt-get update`
-- Ketik -> `sudo apt-get install git`
-- Ketik -> `sudo apt-get install python-sofware-properties`
-- Ketik -> `sudo pip install rsa`
-- Ketik -> `sudo pip install thrift==0.9.3`
-- Ketik -> `sudo pip install requests`
-- Ketik -> `sudo pip install requests==2.5.3`
-- Ketik -> `sudo pip install bs4`
-- Ketik -> `sudo pip install gtts`
-- Ketik -> `sudo pip install googletrans`
-- Ketik -> `git clone https://github.com/Nadyatjia/Chucky`
-- Ketik -> `cd Chucky`
-- Ketik -> `python Chucky.py`
-
-Di Termux :
-- Ketik -> `pkg update`
-- Ketik -> `pkg install git`
-- Ketik -> `pkg install python2`
-- Ketik -> `pip2 install rsa`
-- Ketik -> `pip2 install thrift==0.9.3`
-- Ketik -> `pip2 install requests`
-- Ketik -> `pip2 install bs4`
-- Ketik -> `pip2 install gtts`
-- Ketik -> `pip2 install googletrans`
-- Ketik -> `git clone https://github.com/Nadyatjia/Chucky`
-- Ketik -> `cd Chucky`
-- Ketik -> `python2 Chucky.py`
-
-Cara Menjalankan Bot Kembali :
-------
-Di C9 :
-- Ketik -> `cd Chucky`
-- Ketik -> `python Chucky.py`
-
-Di Termux :
-- Ketik -> `cd Chucky`
-- Ketik -> `python2 Chucky.py`
+ C9 :
+- Cloud9 -> `sudo apt-get update`
+- Cloud9 -> `sudo apt-get install git`
+- Cloud9 -> `sudo apt-get install python-sofware-properties`
+- Cloud9 -> `sudo pip install rsa`
+- Cloud9 -> `sudo pip install thrift==0.9.3`
+- Cloud9 -> `sudo pip install requests`
+- Cloud9 -> `sudo pip install requests==2.5.3`
+- Cloud9 -> `sudo pip install bs4`
+- Cloud9 -> `sudo pip install gtts`
+- Cloud9 -> `sudo pip install googletrans`
+- Cloud9 -> `git clone` https://github.com/Nadyatjia/Chucky
 
 
-Credit By@ Nadya Sutjiadi.
-------
-- `Follow My Instagram : nadya.tjia`
-- `Add My ID LINE : nad_nad. (pake titik)`
+INSTALL BOT IN TERMUX :
+- Termux -> `pkg update`
+- Termux -> `pkg install git`
+- Termux -> `pkg install python2`
+- Termux -> `pip2 install rsa`
+- Termux -> `pip2 install thrift==0.9.3`
+- Termux -> `pip2 install requests`
+- Termux -> `pip2 install bs4`
+- Termux -> `pip2 install gtts`
+- Termux -> `pip2 install googletrans`
+- Termux -> `git clone https://github.com/Nadyatjia/Chucky`
+- Termux -> `cd Chucky`
+- Termux -> `python2 Chucky.py`
 
-Thx To :
-------
-- `LINE-TCR TEAM`
+
+
+
