@@ -1,11 +1,10 @@
-**SELFBOT MAN PROTECT
-PROTECT 1 CREATOR 5 BOT 1 Backup.
+# SELFBOT MAN PROTECT
+PROTECT 1 CREATOR 5 BOT 1 Backup
 ------
 
 
-**Install Bot In C9. :
+Install Bot In C9. :
 ------
- C9 :
 - Cloud9 -> `sudo apt-get update`
 - Cloud9 -> `sudo apt-get install git`
 - Cloud9 -> `sudo apt-get install python-sofware-properties`
@@ -29,9 +28,9 @@ INSTALL BOT IN TERMUX :
 - Termux -> `pip2 install bs4`
 - Termux -> `pip2 install gtts`
 - Termux -> `pip2 install googletrans`
-- Termux -> `git clone https://github.com/Nadyatjia/Chucky`
-- Termux -> `cd Chucky`
-- Termux -> `python2 Chucky.py`
+- Termux -> `git clone https://github.com/Selfbotman/.......`
+- Termux -> `cd .......`
+- Termux -> `python2 ....... .py`
 
 
 
